@@ -15,5 +15,10 @@ namespace RAMA
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "SI QUE LO ES ";
+        }
     }
 }
