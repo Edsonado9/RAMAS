@@ -16,9 +16,9 @@ namespace RAMA
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            textBox2.Text = "SI QUE LO ES ";
+            textBox1.Text = "Erick es homosexual";
         }
     }
 }
